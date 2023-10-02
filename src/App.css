@@ -1,0 +1,18 @@
+body{
+  background-color: #ecf0ff;
+
+}
+
+.box-shadow-1{
+  background-color: #ecf0ff;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+}
+
+.filter{
+  background-color: #ecf0ff;
+}
+.nav-bg-color{
+  background-color: #ecf0ff;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+
+}
