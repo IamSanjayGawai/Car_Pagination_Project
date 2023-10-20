@@ -9,17 +9,19 @@ Currently, two official plugins are available:
 
 
 
-Used Vite
+<h1>Live Link</h1>:https://car-pagination-project.netlify.app/
 
-follow steps to install app
+<h5>Clone App</h5>
 
-cd react_task_1
-install dependencies:  npm install 
-run app:   npm run dev
 
-Serach Filter can work 
-pagination can nevigate to next page 
-one page have 6 cards
+git clone 
+
+
+<h5>Install</h5>
+npm install
+
+<h5>Start</h5>
+npm run dev
 
 
 
